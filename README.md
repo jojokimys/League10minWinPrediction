@@ -1,5 +1,6 @@
-# League10minWinPrediction
-Predicting Win with 10min of League of Legends data
+# League 10 min Win Prediction
+Predicting Win with 10min of League of Legends data.
+Project from INST414 class. Practice of applying different machine learning algorithms as well as data science techniques. 
 
 ## Methods
 1. Logistic Regression
