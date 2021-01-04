@@ -2,7 +2,7 @@
 Predicting Win with 10min of League of Legends data.
 Project from INST414 class. Practice of applying different machine learning algorithms as well as data science techniques. 
 
-You can check Google Collab notebook from the link below
+You can check Google Collab notebook through
 [Link to view Google Collab](https://colab.research.google.com/drive/1gpKHAXsWSswkTX9NWhskg4x_ZELY4_ns?usp=sharing)
 
 ## Methods
